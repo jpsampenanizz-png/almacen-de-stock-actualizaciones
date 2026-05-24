@@ -1,11 +1,11 @@
 ﻿{
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNi9Qb29qSW1yVXk0d0Q4R0FweEQ3UkpyS2pTQll3ZW5sTFgxcU9Nc2FwNVpYYmRVbk9yZzR1bkl4NXEzQUlydkdBSUtGOHVHTVlZODAyeDRxcVJOcUptRGNsb1JQUHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTk5MDk0CWZpbGU6Q29udHJvbCBkZSBTdG9ja18xLjAuMV94NjRfZXMtRVMubXNpClNvUTZlTjVhMzZ6dGpVV2piNnJQV1l3MjVIS2xtaHNLc0FKSXk0V2xQalBRSWJRTW9ZcWJiNWxpa1lEY2hlVVpqdEZLcGEzbHNwdzJ0Q3lqQU1sbEJBPT0K",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNi9Qb29qSW1yVXpFVEUxcmRuRjV3dGdua25VVXJaT1Brd3VMRTJUVXB1QWVocCs4Y283SGV0dDd0QjRDTmthZDdFMHMvVWJnWWNmVVRLaXQwSDFqNFl0NUorVmF5T3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjYwMTI4CWZpbGU6Q29udHJvbCBkZSBTdG9ja18xLjAuMV94NjRfZXMtRVMubXNpCnZzZ2dNV0ZrL2IxN1dtRWYzbFNmS3JQTHhRY3ZYNzFORW9oYUtoOWI4amJCY1l5QzVvZHpwZE0xSE41aFdkNEFJd0c2SUlKNGdXclVQeHl3eVpZR0JBPT0K",
                                              "url":  "https://raw.githubusercontent.com/jpsampenanizz-png/almacen-de-stock-actualizaciones/main/Control%20de%20Stock_1.0.1_x64_es-ES.msi"
                                          }
                   },
-    "pub_date":  "2026-05-24T00:08:27Z",
+    "pub_date":  "2026-05-24T17:02:09Z",
     "version":  "1.0.1",
-    "notes":  "Actualizacion automatica a la version V1.0.1. Incluye iconos optimizados al triple y logos transparentes."
+    "notes":  "V1.0.1: Correccion de licenciamiento Supabase, tolerancia de reloj reducida a 1 dia, y actualizaciones obligatorias al iniciar."
 }
