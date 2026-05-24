@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "Versión inicial estable 1.0.0. ¡Control de Stock listo para usar!",
+  "pub_date": "2026-05-24T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmaWxlIHBsYWNlaG9sZGVyCg==",
+      "url": "https://raw.githubusercontent.com/jpsampenanizz-png/almacen-de-stock-actualizaciones/main/Almacen_Magico_1.0.0_x64_en-US.msi"
+    }
+  }
+}
