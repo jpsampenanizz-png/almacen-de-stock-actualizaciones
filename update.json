@@ -1,11 +1,11 @@
-{
-  "version": "1.0.0",
-  "notes": "Versión inicial estable 1.0.0. ¡Control de Stock listo para usar!",
-  "pub_date": "2026-05-24T00:00:00Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmaWxlIHBsYWNlaG9sZGVyCg==",
-      "url": "https://raw.githubusercontent.com/jpsampenanizz-png/almacen-de-stock-actualizaciones/main/Almacen_Magico_1.0.0_x64_en-US.msi"
-    }
-  }
+﻿{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNi9Qb29qSW1yVTRSRTFGbU5HSlhsUTdVaHNaOXppUUN3aEhOK1I5NmNxSFhUWUozNCtsQStFYWh0bUJOSGY4a2Z3K2JCOWQ4c0xBNnJHWVJHbjlEOVFValV0dG50UFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTg5NjEyCWZpbGU6Q29udHJvbCBkZSBTdG9ja18xLjAuMF94NjRfZW4tVVMubXNpCk1LbXRPU1NKeEdFZ24vT1NtSzNTNURoNlYvVmFYOGtjV1ZVeGNmYmw5cTNldnRaT0F1bFdWKzRNcEl4SWVZRUU2WHJTRWJ6QmVVZjIyV2w4NlN0M0FRPT0K",
+                                             "url":  "https://raw.githubusercontent.com/jpsampenanizz-png/almacen-de-stock-actualizaciones/main/Control%20de%20Stock_1.0.0_x64_en-US.msi"
+                                         }
+                  },
+    "pub_date":  "2026-05-23T21:27:35Z",
+    "version":  "1.0.0",
+    "notes":  "ActualizaciÃ³n automÃ¡tica a la versiÃ³n V1.0.0. Â¡Incluye todas las Ãºltimas mejoras y correcciones estables!"
 }
