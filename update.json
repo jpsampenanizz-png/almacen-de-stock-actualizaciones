@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNi9Qb29qSW1yVS9kUm5XanJKbTZ0NmtiR0gvZjA0SVdBUWNnSTQ3U1NNNkNReFYrRk10NnFmWksxLzZjcUVWMWxyOE0wSGhpU2twdEYvakMzem90aStrV0x0aXNFMWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDU4MjQ4CWZpbGU6Q29udHJvbCBkZSBTdG9ja18xLjAuMl94NjRfZXMtRVMubXNpCjJzQndIQTdhNXV3WGFMNG5BSjI1dnhFUWtYMTRDaFl1SkRZQTMzVTc4SHNaUXhkZmJyaG05YWppVDVHdzNIaENhUUJCZCtCclpNajU1WjFGcXJvTUF3PT0K",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNi9Qb29qSW1yVTRKRUVId1R4YlRiTGp2K3hhcGM1d0VScmticHJVWjFPVWNpY3lZQkp4bzFrQWp4a0pJUGNtWGVaZGJ5dmZWcmNESHZ5U25LRXpwK3hSL29MVzR3eGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNTQxODc2CWZpbGU6Q29udHJvbCBkZSBTdG9ja18xLjAuMl94NjRfZXMtRVMubXNpClBSM3E5bnhpQ2h3eTl3d0FUUEgxOUVMWFRCWW5tSVZhNVVRcVRSZ2pNczJvS0ljdWV4c3NYa3lPRytXSkFUYW80RC9OdGxXUW92dFRoR3dzWGk1SEJ3PT0K",
                                              "url":  "https://raw.githubusercontent.com/jpsampenanizz-png/almacen-de-stock-actualizaciones/main/Control%20de%20Stock_1.0.2_x64_es-ES.msi"
                                          }
                   },
-    "pub_date":  "2026-06-02T22:44:12Z",
+    "pub_date":  "2026-06-03T21:58:02Z",
     "version":  "1.0.2",
     "notes":  "Actualizacion automatica a la version V1.0.2. Incluye todas las ultimas mejoras y correcciones estables."
 }
